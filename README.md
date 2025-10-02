@@ -1,5 +1,5 @@
 ## HOLA 
-- 👩🏽‍💻 Aprendiendo a usar GitHub en la universidad
+- 👩🏽‍💻 Aprendiendo a usar GitHub y R en la universidad
 - ✍🏽 Avanzando en el magister
 - 🙋🏽‍♀️ Trabajando como periodista en el Ministerio de la Mujer y la Equidad de Género
 
